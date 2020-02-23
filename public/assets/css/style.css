@@ -1,0 +1,32 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+}
+
+p {
+    text-align: center;
+}
+
+main {
+    margin: 0 auto;
+    width: 50%;
+}
+
+aside {
+    position: relative;
+    top: 20rem;
+    margin: 1rem auto;
+    width: 50%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
