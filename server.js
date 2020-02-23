@@ -1,7 +1,7 @@
 const express = require('express');
 const handlebars = require('express-handlebars');
 
-let PORT = process.env.port || 8080;
+let PORT = process.env.PORT || 8080;
 
 let app = express();
 
